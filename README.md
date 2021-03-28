@@ -46,46 +46,70 @@ Its a repository gathering resources about frontend.
 > _https://marketplace.visualstudio.com/items?itemName=lostintangent.thinking-in-code&s=03_
 
 
+
 # Editor & Tools
 ## VSCode
 > _https://github.com/microsoft/vscode-tips-and-tricks_ 👍
+
 ## UI Visualization
 > _https://ui.dev/javascript-visualizer/_
+
 ## SVG
 > _https://jakearchibald.github.io/svgomg/_
+
 ## Formats
 > _https://transform.tools/_
+
 ## Regex
 > _https://regexper.com/_
+
 ## CSS
 > _https://www.magicpattern.design/tools/blob-generator_
+
 > _https://www.heropatterns.com/_
+
 > _https://stripesgenerator.com/_
+
 > _https://cssgradient.io/_
+
 > _http://www.patternify.com/_
+
 > _https://accordionslider.com/_
+
 > _https://grid.layoutit.com/_
+
 > _https://keyframes.app/_
+
 ## Testing
 > _https://www.iterspace.com/_
+
 ## Database
 > _https://github.com/mgramin/awesome-db-tools_
 
 
+
 # Cheatsheets
 > _https://github.com/LeCoupa/awesome-cheatsheets_
+
 ## JS
 > _https://github.com/iLoveCodingOrg/javascript-cheatsheet/blob/master/js-cheatsheet.pdf_
+
 ## HTML
 > _https://htmlcheatsheet.com/js/_
+
 ## CSS
 > _https://cssreference.io/_
+
 > _https://htmlcheatsheet.com/css/_
+
 ## Angular
 > _https://angular.io/guide/cheatsheet?s=03_
+
 > _https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74?s=03_
+
 ## Unicode
 > _https://mathiasbynens.be/notes/javascript-unicode?s=03_
+
 
 
 # Code style
@@ -93,9 +117,12 @@ Its a repository gathering resources about frontend.
 > _https://github.com/airbnb/javascript_
 
 
+
 # Build library
 > _https://github.com/storybookjs/storybook_
+
 > _https://medium.com/loftbr/angular-storybook-6d8ae099ab96?s=09_
+
 
 
 # Datas & Mock
