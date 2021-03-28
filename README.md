@@ -2,11 +2,41 @@
 
 Its a repository gathering resources about frontend.
 
+# Learning
+## Path
+> _https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer_
+> _https://2020.stateofjs.com/en-US/?s=03_
+> _https://github.com/kamranahmedse/developer-roadmap_
+## JS
+> _https://github.com/getify/You-Dont-Know-JS_
+> _https://github.com/30-seconds/30-seconds-of-code_
+> _https://jsbeginners.com/javascript-projects-for-beginners/_
+## HTML
+> _https://github.com/h5bp/html5-boilerplate_
+## CSS
+> _https://learn.shayhowe.com/_
+> _https://learnlayout.com/_
+> _https://www.csstutorial.net/_
+> _https://unminify.com/_
+> _http://extractcss.com/_
+## Examples
+> _https://github.com/gothinkster/realworld_
+> _https://www.whatruns.com/_
+> _https://github.com/tuvtran/project-based-learning_
+> _https://dev.to/alexmercedcoder/1-backend-5-frontends-todo-list-with-rails-react-angular-vue-svelte-and-jquery-18kp?s=09_
+
+
+# Sharing Platform & tools
+> _https://marketplace.visualstudio.com/items?itemName=lostintangent.thinking-in-code&s=03_
+
+
 # Editor & Tools
 ## VSCode
 > _https://github.com/microsoft/vscode-tips-and-tricks_ 👍
 ## UI Visualization
 > _https://ui.dev/javascript-visualizer/_
+## SVG
+> _https://jakearchibald.github.io/svgomg/_
 ## Formats
 > _https://transform.tools/_
 ## Regex
@@ -24,32 +54,6 @@ Its a repository gathering resources about frontend.
 > _https://www.iterspace.com/_
 ## Database
 > _https://github.com/mgramin/awesome-db-tools_
-
-
-# Learning
-## Path
-> _https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer_
-> _https://2020.stateofjs.com/en-US/?s=03_
-## JS
-> _https://github.com/getify/You-Dont-Know-JS_
-> _https://github.com/30-seconds/30-seconds-of-code_
-> _https://jsbeginners.com/javascript-projects-for-beginners/_
-## HTML
-> _https://github.com/h5bp/html5-boilerplate_
-## CSS
-> _https://learn.shayhowe.com/_
-> _https://learnlayout.com/_
-> _https://www.csstutorial.net/_
-> _https://unminify.com/_
-> _http://extractcss.com/_
-## Examples
-> _https://github.com/gothinkster/realworld_
-> _https://www.whatruns.com/_
-> _https://github.com/tuvtran/project-based-learning_
-
-
-# Sharing Platform & tools
-> _https://marketplace.visualstudio.com/items?itemName=lostintangent.thinking-in-code&s=03_
 
 
 # Cheatsheets
@@ -75,10 +79,15 @@ Its a repository gathering resources about frontend.
 
 # Build library
 > _https://github.com/storybookjs/storybook_
+> _https://medium.com/loftbr/angular-storybook-6d8ae099ab96?s=09_
 
 
 # Datas & Mock
 > _https://github.com/public-apis/public-apis?s=03_
+
+
+# REST API
+> _https://blog.octo.com/designer-une-api-rest/_
 
 
 # Design
@@ -105,6 +114,7 @@ Its a repository gathering resources about frontend.
 > _https://github.com/thedaviddias/Front-End-Performance-Checklist_
 ## JS
 > _https://perf.link/_
+> _https://philipwalton.com/articles/idle-until-urgent/_
 
 
 # Production
@@ -117,6 +127,7 @@ Its a repository gathering resources about frontend.
 > _https://www.awardspace.com/_
 > _https://t.co/P4GTQIFSdD?amp=1_
 > _https://cloud.google.com/solutions/web-hosting_
+> _https://vaiz10.medium.com/deploying-for-free-an-angular-application-to-heroku-b223728e8ebb_
 
 # Other resources
 > _https://github.com/tommcgurl/frontend-resources_
