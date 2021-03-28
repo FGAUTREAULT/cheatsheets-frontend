@@ -29,6 +29,7 @@ Its a repository gathering resources about frontend.
 # Learning
 ## Path
 > _https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer_
+> _https://2020.stateofjs.com/en-US/?s=03_
 ## JS
 > _https://github.com/getify/You-Dont-Know-JS_
 > _https://github.com/30-seconds/30-seconds-of-code_
@@ -60,6 +61,11 @@ Its a repository gathering resources about frontend.
 ## CSS
 > _https://cssreference.io/_
 > _https://htmlcheatsheet.com/css/_
+## Angular
+> _https://angular.io/guide/cheatsheet?s=03_
+> _https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74?s=03_
+## Unicode
+> _https://mathiasbynens.be/notes/javascript-unicode?s=03_
 
 
 # Code style
