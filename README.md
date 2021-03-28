@@ -2,7 +2,7 @@
 
 Its a repository gathering resources about frontend.
 
-# Editor
+# Editor & Tools
 ## UI Visualization
 > _https://ui.dev/javascript-visualizer/_
 ## Formats
@@ -18,6 +18,8 @@ Its a repository gathering resources about frontend.
 > _https://accordionslider.com/_
 > _https://grid.layoutit.com/_
 > _https://keyframes.app/_
+## Testing
+> _https://www.iterspace.com/_
 
 
 # Learning
@@ -31,8 +33,11 @@ Its a repository gathering resources about frontend.
 > _https://learn.shayhowe.com/_
 > _https://learnlayout.com/_
 > _https://www.csstutorial.net/_
+> _https://unminify.com/_
+> _http://extractcss.com/_
 ## Examples
 > _https://github.com/gothinkster/realworld_
+> _https://www.whatruns.com/_
 
 
 # Sharing Platform & tools
@@ -68,8 +73,17 @@ Its a repository gathering resources about frontend.
 > _https://play.typedetail.com/_
 ## Icons
 > _https://icones.js.org/_
+> _https://www.logaster.com/amp/logo/?__twitter_impression=true_
+> _https://t.co/tVLX3iAiqi?amp=1_
+> _https://icons8.com/_
 ## Colors
 > _https://palette.ninja/_
+> _https://color.hailpixel.com/_
+> _http://stylifyme.com/_
+> _https://uigradients.com/#VirginAmerica_
+> _https://www.colorsandfonts.com/_
+## Responsive
+> _https://responsively.app/_
 
 
 # Performance
@@ -78,5 +92,13 @@ Its a repository gathering resources about frontend.
 > _https://perf.link/_
 
 
-# Production tips
+# Production
+## Tips
 > _https://github.com/thedaviddias/Front-End-Checklist_
+## Hosting
+> _https://www.npmjs.com/package/angular-cli-ghpages_
+> _https://angular.schule/blog/2020-01-everything-github_
+> _https://infinityfree.net/_
+> _https://www.awardspace.com/_
+> _https://t.co/P4GTQIFSdD?amp=1_
+> _https://cloud.google.com/solutions/web-hosting_
