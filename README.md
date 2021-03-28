@@ -1,4 +1,4 @@
-# Welcome to cheatsheets-vscode
+# Welcome to cheatsheets-frontend
 
 Its a repository gathering resources about frontend.
 
