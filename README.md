@@ -5,25 +5,41 @@ Its a repository gathering resources about frontend.
 # Learning
 ## Path
 > _https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer_
+
 > _https://2020.stateofjs.com/en-US/?s=03_
+
 > _https://github.com/kamranahmedse/developer-roadmap_
+
 ## JS
 > _https://github.com/getify/You-Dont-Know-JS_
+
 > _https://github.com/30-seconds/30-seconds-of-code_
+
 > _https://jsbeginners.com/javascript-projects-for-beginners/_
+
 ## HTML
 > _https://github.com/h5bp/html5-boilerplate_
+
 ## CSS
 > _https://learn.shayhowe.com/_
+
 > _https://learnlayout.com/_
+
 > _https://www.csstutorial.net/_
+
 > _https://unminify.com/_
+
 > _http://extractcss.com/_
+
 ## Examples
 > _https://github.com/gothinkster/realworld_
+
 > _https://www.whatruns.com/_
+
 > _https://github.com/tuvtran/project-based-learning_
+
 > _https://dev.to/alexmercedcoder/1-backend-5-frontends-todo-list-with-rails-react-angular-vue-svelte-and-jquery-18kp?s=09_
+
 
 
 # Sharing Platform & tools
