@@ -129,48 +129,78 @@ Its a repository gathering resources about frontend.
 > _https://github.com/public-apis/public-apis?s=03_
 
 
+
 # REST API
 > _https://blog.octo.com/designer-une-api-rest/_
 
 
+
 # Design
 > _https://github.com/thedaviddias/Front-End-Design-Checklist_
+
 > _https://github.com/goabstract/Awesome-Design-Tools_
+
 ## Fonts
 > _https://play.typedetail.com/_
+
 ## Icons
 > _https://icones.js.org/_
+
 > _https://www.logaster.com/amp/logo/?__twitter_impression=true_
+
 > _https://t.co/tVLX3iAiqi?amp=1_
+
 > _https://icons8.com/_
+
 ## Colors
 > _https://palette.ninja/_
+
 > _https://color.hailpixel.com/_
+
 > _http://stylifyme.com/_
+
 > _https://uigradients.com/#VirginAmerica_
+
 > _https://www.colorsandfonts.com/_
+
 ## Responsive
 > _https://responsively.app/_
 
 
+
 # Performance
 > _https://github.com/thedaviddias/Front-End-Performance-Checklist_
+
 ## JS
 > _https://perf.link/_
+
 > _https://philipwalton.com/articles/idle-until-urgent/_
+
 
 
 # Production
 ## Tips
 > _https://github.com/thedaviddias/Front-End-Checklist_
+
 ## Hosting
 > _https://www.npmjs.com/package/angular-cli-ghpages_
+
 > _https://angular.schule/blog/2020-01-everything-github_
+
 > _https://infinityfree.net/_
+
 > _https://www.awardspace.com/_
+
 > _https://t.co/P4GTQIFSdD?amp=1_
+
 > _https://cloud.google.com/solutions/web-hosting_
+
 > _https://vaiz10.medium.com/deploying-for-free-an-angular-application-to-heroku-b223728e8ebb_
+
+
 
 # Other resources
 > _https://github.com/tommcgurl/frontend-resources_
+
+
+
