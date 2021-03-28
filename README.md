@@ -1,6 +1,6 @@
 # Welcome to cheatsheets-frontend
 
-Its a repository gathering resources about frontend.
+It's a repository gathering resources about frontend.
 
 # Learning
 ## Path
