@@ -3,6 +3,8 @@
 Its a repository gathering resources about frontend.
 
 # Editor & Tools
+## VSCode
+> _https://github.com/microsoft/vscode-tips-and-tricks_ 👍
 ## UI Visualization
 > _https://ui.dev/javascript-visualizer/_
 ## Formats
@@ -20,9 +22,13 @@ Its a repository gathering resources about frontend.
 > _https://keyframes.app/_
 ## Testing
 > _https://www.iterspace.com/_
+## Database
+> _https://github.com/mgramin/awesome-db-tools_
 
 
 # Learning
+## Path
+> _https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer_
 ## JS
 > _https://github.com/getify/You-Dont-Know-JS_
 > _https://github.com/30-seconds/30-seconds-of-code_
@@ -38,6 +44,7 @@ Its a repository gathering resources about frontend.
 ## Examples
 > _https://github.com/gothinkster/realworld_
 > _https://www.whatruns.com/_
+> _https://github.com/tuvtran/project-based-learning_
 
 
 # Sharing Platform & tools
@@ -45,6 +52,7 @@ Its a repository gathering resources about frontend.
 
 
 # Cheatsheets
+> _https://github.com/LeCoupa/awesome-cheatsheets_
 ## JS
 > _https://github.com/iLoveCodingOrg/javascript-cheatsheet/blob/master/js-cheatsheet.pdf_
 ## HTML
@@ -63,12 +71,13 @@ Its a repository gathering resources about frontend.
 > _https://github.com/storybookjs/storybook_
 
 
-# Datas
+# Datas & Mock
 > _https://github.com/public-apis/public-apis?s=03_
 
 
 # Design
 > _https://github.com/thedaviddias/Front-End-Design-Checklist_
+> _https://github.com/goabstract/Awesome-Design-Tools_
 ## Fonts
 > _https://play.typedetail.com/_
 ## Icons
@@ -102,3 +111,6 @@ Its a repository gathering resources about frontend.
 > _https://www.awardspace.com/_
 > _https://t.co/P4GTQIFSdD?amp=1_
 > _https://cloud.google.com/solutions/web-hosting_
+
+# Other resources
+> _https://github.com/tommcgurl/frontend-resources_
