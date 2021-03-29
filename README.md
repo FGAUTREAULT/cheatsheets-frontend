@@ -17,6 +17,8 @@ It's a repository gathering resources about frontend.
 
 > _https://jsbeginners.com/javascript-projects-for-beginners/_
 
+> _https://bestofjs.org/_
+
 ## HTML
 > _https://github.com/h5bp/html5-boilerplate_
 
