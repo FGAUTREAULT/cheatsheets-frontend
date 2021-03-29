@@ -10,6 +10,8 @@ It's a repository gathering resources about frontend.
 
 > _https://github.com/kamranahmedse/developer-roadmap_
 
+>_https://www.webfx.com/web-design/_
+
 ## JS
 > _https://github.com/getify/You-Dont-Know-JS_
 
@@ -140,6 +142,16 @@ It's a repository gathering resources about frontend.
 > _https://uigradients.com/#VirginAmerica_
 
 > _https://www.colorsandfonts.com/_
+
+> _https://colorhunt.co/_
+
+> _https://coolors.co/_
+
+> _https://htmlcolorcodes.com/fr/_
+
+> _https://encycolorpedia.com/2a341c_
+
+> _https://flatuicolors.com/_
 
 ## Responsive
 > _https://responsively.app/_
