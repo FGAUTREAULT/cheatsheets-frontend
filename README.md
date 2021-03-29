@@ -21,15 +21,7 @@ It's a repository gathering resources about frontend.
 > _https://github.com/h5bp/html5-boilerplate_
 
 ## CSS
-> _https://learn.shayhowe.com/_
-
-> _https://learnlayout.com/_
-
-> _https://www.csstutorial.net/_
-
-> _https://unminify.com/_
-
-> _http://extractcss.com/_
+> _https://github.com/FGAUTREAULT/cheatsheets-css/blob/main/README.md#learning_
 
 ## Examples
 > _https://github.com/gothinkster/realworld_
@@ -64,21 +56,7 @@ It's a repository gathering resources about frontend.
 > _https://regexper.com/_
 
 ## CSS
-> _https://www.magicpattern.design/tools/blob-generator_
-
-> _https://www.heropatterns.com/_
-
-> _https://stripesgenerator.com/_
-
-> _https://cssgradient.io/_
-
-> _http://www.patternify.com/_
-
-> _https://accordionslider.com/_
-
-> _https://grid.layoutit.com/_
-
-> _https://keyframes.app/_
+> _https://github.com/FGAUTREAULT/cheatsheets-css/blob/main/README.md#editor--tools_
 
 ## Testing
 > _https://www.iterspace.com/_
@@ -98,9 +76,7 @@ It's a repository gathering resources about frontend.
 > _https://htmlcheatsheet.com/js/_
 
 ## CSS
-> _https://cssreference.io/_
-
-> _https://htmlcheatsheet.com/css/_
+> _https://github.com/FGAUTREAULT/cheatsheets-css/blob/main/README.md#cheatsheets_
 
 ## Angular
 > _https://angular.io/guide/cheatsheet?s=03_
