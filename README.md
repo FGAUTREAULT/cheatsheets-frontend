@@ -10,7 +10,9 @@ It's a repository gathering resources about frontend.
 
 > _https://github.com/kamranahmedse/developer-roadmap_
 
->_https://www.webfx.com/web-design/_
+> _https://www.webfx.com/web-design/_
+
+> _https://www.geeksforgeeks.org/_
 
 ## JS
 > _https://github.com/getify/You-Dont-Know-JS_
@@ -40,6 +42,12 @@ It's a repository gathering resources about frontend.
 > _https://webcode.tools/_
 
 > _https://css-tricks.com/snippets/_
+
+> _https://www.w3schools.com/howto/_
+
+> _https://snipplr.com/_
+
+> _https://codepen.io/collection/DYpwPE_
 
 # Sharing Platform & tools
 > _https://marketplace.visualstudio.com/items?itemName=lostintangent.thinking-in-code&s=03_
@@ -159,6 +167,10 @@ It's a repository gathering resources about frontend.
 ## Responsive
 > _https://responsively.app/_
 
+## Inspiration
+> _https://www.cssdesignawards.com/_
+> _https://www.awwwards.com/_
+> 
 
 
 # Performance
