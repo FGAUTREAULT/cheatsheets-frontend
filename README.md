@@ -85,13 +85,13 @@ It's a repository gathering resources about frontend.
 > _https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74?s=03_
 
 ## Unicode
-> _https://mathiasbynens.be/notes/javascript-unicode?s=03_
+> _https://mathiasbynens.be/notes/javascript-unicode?s=03_  
 
 
 
 # Code style
 ## JS
-> _https://github.com/airbnb/javascript_
+> _https://github.com/airbnb/javascript_  
 
 
 
@@ -113,16 +113,16 @@ It's a repository gathering resources about frontend.
 
 # Design
 > _https://github.com/thedaviddias/Front-End-Design-Checklist_  
-> _https://github.com/goabstract/Awesome-Design-Tools_
+> _https://github.com/goabstract/Awesome-Design-Tools_  
 
 ## Fonts
-> _https://play.typedetail.com/_
+> _https://play.typedetail.com/_  
 
 ## Icons
 > _https://icones.js.org/_  
 > _https://www.logaster.com/amp/logo/?__twitter_impression=true_  
 > _https://t.co/tVLX3iAiqi?amp=1_  
-> _https://icons8.com/_
+> _https://icons8.com/_  
 
 ## Colors
 > _https://palette.ninja/_  
@@ -137,35 +137,40 @@ It's a repository gathering resources about frontend.
 > _https://flatuicolors.com/_
 
 ## Responsive
-> _https://responsively.app/_
+> _https://responsively.app/_  
 
 ## Inspiration
-> _https://www.cssdesignawards.com/_
-> _https://www.awwwards.com/_
+> _https://www.cssdesignawards.com/_  
+> _https://www.awwwards.com/_  
+
+## PNGs
+> _https://www.klipartz.com/_  
+> _https://www.remove.bg/fr_  
+> _https://www.pngwing.com/_  
 
 
 
 # Performance
-> _https://github.com/thedaviddias/Front-End-Performance-Checklist_
+> _https://github.com/thedaviddias/Front-End-Performance-Checklist_  
 
 ## JS
 > _https://perf.link/_  
-> _https://philipwalton.com/articles/idle-until-urgent/_
+> _https://philipwalton.com/articles/idle-until-urgent/_  
 
 
 
 # Production
 ## Tips
-> _https://github.com/thedaviddias/Front-End-Checklist_
+> _https://github.com/thedaviddias/Front-End-Checklist_  
 
 ## Hosting
 ### Dynamic
-> _https://firebase.google.com/_
-> _https://vaiz10.medium.com/deploying-for-free-an-angular-application-to-heroku-b223728e8ebb_
-> _https://www.heroku.com/_
+> _https://firebase.google.com/_  
+> _https://vaiz10.medium.com/deploying-for-free-an-angular-application-to-heroku-b223728e8ebb_  
+> _https://www.heroku.com/_  
 > _https://infinityfree.net/_  
 ### GitHub Based
-> _https://www.netlify.com/_
+> _https://www.netlify.com/_  
 > _https://www.npmjs.com/package/angular-cli-ghpages_  
 > _https://angular.schule/blog/2020-01-everything-github_  
 ### Static
@@ -173,11 +178,11 @@ It's a repository gathering resources about frontend.
 npm install --global surge
 surge
 </pre>
-> _https://surge.sh/_
+> _https://surge.sh/_  
 
 
 # Other resources
-> _https://github.com/tommcgurl/frontend-resources_
+> _https://github.com/tommcgurl/frontend-resources_  
 
 
 
