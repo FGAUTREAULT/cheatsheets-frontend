@@ -43,7 +43,7 @@ It's a repository gathering resources about frontend.
 
 
 # Sharing Platform & tools
-> _https://marketplace.visualstudio.com/items?itemName=lostintangent.thinking-in-code&s=03_
+> _https://marketplace.visualstudio.com/items?itemName=lostintangent.thinking-in-code&s=03_  
 
 
 
@@ -54,47 +54,46 @@ It's a repository gathering resources about frontend.
 
 # Editor & Tools
 ## VSCode
-> _https://github.com/microsoft/vscode-tips-and-tricks_ 👍
+> _https://github.com/microsoft/vscode-tips-and-tricks_ 👍  
 
 ## UI Visualization
-> _https://ui.dev/javascript-visualizer/_
+> _https://ui.dev/javascript-visualizer/_  
 
 ## SVG
-> _https://jakearchibald.github.io/svgomg/_
+> _https://jakearchibald.github.io/svgomg/_  
 
 ## Formats
 > _https://transform.tools/_
 
 ## Regex
-> _https://regexper.com/_
+> _https://regexper.com/_  
 
 ## CSS
-> _https://github.com/FGAUTREAULT/cheatsheets-css/blob/main/README.md#editor--tools_
+> _https://github.com/FGAUTREAULT/cheatsheets-css/blob/main/README.md#editor--tools_  
 
 ## Testing
-> _https://www.iterspace.com/_
+> _https://www.iterspace.com/_  
 
 ## Database
-> _https://github.com/mgramin/awesome-db-tools_
+> _https://github.com/mgramin/awesome-db-tools_  
 
 
 
 # Cheatsheets
-> _https://github.com/LeCoupa/awesome-cheatsheets_
+> _https://github.com/LeCoupa/awesome-cheatsheets_  
 
 ## JS
-> _https://github.com/iLoveCodingOrg/javascript-cheatsheet/blob/master/js-cheatsheet.pdf_
+> _https://github.com/iLoveCodingOrg/javascript-cheatsheet/blob/master/js-cheatsheet.pdf_  
 
 ## HTML
-> _https://htmlcheatsheet.com/js/_
+> _https://htmlcheatsheet.com/js/_  
 
 ## CSS
-> _https://github.com/FGAUTREAULT/cheatsheets-css/blob/main/README.md#cheatsheets_
+> _https://github.com/FGAUTREAULT/cheatsheets-css/blob/main/README.md#cheatsheets_   
 
 ## Angular
-> _https://angular.io/guide/cheatsheet?s=03_
-
-> _https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74?s=03_
+> _https://angular.io/guide/cheatsheet?s=03_  
+> _https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74?s=03_  
 
 ## Unicode
 > _https://mathiasbynens.be/notes/javascript-unicode?s=03_  
@@ -146,7 +145,7 @@ It's a repository gathering resources about frontend.
 > _https://coolors.co/_  
 > _https://htmlcolorcodes.com/fr/_  
 > _https://encycolorpedia.com/2a341c_  
-> _https://flatuicolors.com/_
+> _https://flatuicolors.com/_  
 
 ## Responsive
 > _https://responsively.app/_  
