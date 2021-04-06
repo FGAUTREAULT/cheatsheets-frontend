@@ -4,11 +4,13 @@ It's a repository gathering resources about frontend.
 
 # Learning
 ## Path
+> _https://github.com/google/WebFundamentals_  
 > _https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer_  
 > _https://2020.stateofjs.com/en-US/?s=03_  
 > _https://github.com/kamranahmedse/developer-roadmap_  
 > _https://www.webfx.com/web-design/_  
-> _https://www.geeksforgeeks.org/_
+> _https://www.geeksforgeeks.org/_  
+> _https://github.com/lauragift21/awesome-learning-resources_  
 
 ## JS
 > _https://github.com/getify/You-Dont-Know-JS_  
@@ -26,17 +28,27 @@ It's a repository gathering resources about frontend.
 > _https://github.com/gothinkster/realworld_  
 > _https://www.whatruns.com/_  
 > _https://github.com/tuvtran/project-based-learning_  
-> _https://dev.to/alexmercedcoder/1-backend-5-frontends-todo-list-with-rails-react-angular-vue-svelte-and-jquery-18kp?s=09_
+> _https://dev.to/alexmercedcoder/1-backend-5-frontends-todo-list-with-rails-react-angular-vue-svelte-and-jquery-18kp?s=09_  
+> _https://github.com/webgems/webgems_  
 
 ## Code snippets
 > _https://webcode.tools/_  
 > _https://css-tricks.com/snippets/_  
 > _https://www.w3schools.com/howto/_  
 > _https://snipplr.com/_  
-> _https://codepen.io/collection/DYpwPE_
+> _https://codepen.io/collection/DYpwPE_  
+
+## GIT
+> _https://github.com/pcottle/learnGitBranching_  
+
 
 # Sharing Platform & tools
 > _https://marketplace.visualstudio.com/items?itemName=lostintangent.thinking-in-code&s=03_
+
+
+
+# Algorithms
+> _https://github.com/trekhleb/javascript-algorithms_  
 
 
 
@@ -183,6 +195,6 @@ surge
 
 # Other resources
 > _https://github.com/tommcgurl/frontend-resources_  
-
+> _https://github.com/dypsilon/frontend-dev-bookmarks_  
 
 
