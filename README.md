@@ -122,42 +122,8 @@ It's a repository gathering resources about frontend.
 
 
 
-# Design
-> _https://github.com/thedaviddias/Front-End-Design-Checklist_  
-> _https://github.com/goabstract/Awesome-Design-Tools_  
-
-## Fonts
-> _https://play.typedetail.com/_  
-
-## Icons
-> _https://icones.js.org/_  
-> _https://www.logaster.com/amp/logo/?__twitter_impression=true_  
-> _https://t.co/tVLX3iAiqi?amp=1_  
-> _https://icons8.com/_  
-
-## Colors
-> _https://palette.ninja/_  
-> _https://color.hailpixel.com/_  
-> _http://stylifyme.com/_  
-> _https://uigradients.com/#VirginAmerica_  
-> _https://www.colorsandfonts.com/_  
-> _https://colorhunt.co/_  
-> _https://coolors.co/_  
-> _https://htmlcolorcodes.com/fr/_  
-> _https://encycolorpedia.com/2a341c_  
-> _https://flatuicolors.com/_  
-
-## Responsive
-> _https://responsively.app/_  
-
-## Inspiration
-> _https://www.cssdesignawards.com/_  
-> _https://www.awwwards.com/_  
-
-## PNGs
-> _https://www.klipartz.com/_  
-> _https://www.remove.bg/fr_  
-> _https://www.pngwing.com/_  
+# UI
+> _https://github.com/FGAUTREAULT/cheatsheets-ui-ux_
 
 
 
