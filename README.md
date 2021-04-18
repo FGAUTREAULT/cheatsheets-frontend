@@ -11,7 +11,8 @@ It's a repository gathering resources about frontend.
 > _https://www.webfx.com/web-design/_  
 > _https://www.geeksforgeeks.org/_  
 > _https://github.com/lauragift21/awesome-learning-resources_  
-> _https://devdocs.io/css/css_animations_
+> _https://devdocs.io/css/css_animations_  
+> _https://hackdesign.org/lessons_  
 
 ## JS
 > _https://github.com/getify/You-Dont-Know-JS_  
