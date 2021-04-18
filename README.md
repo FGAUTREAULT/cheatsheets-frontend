@@ -85,6 +85,7 @@ It's a repository gathering resources about frontend.
 
 # Cheatsheets
 > _https://github.com/LeCoupa/awesome-cheatsheets_  
+> _https://devhints.io/_  
 
 ## JS
 > _https://github.com/iLoveCodingOrg/javascript-cheatsheet/blob/master/js-cheatsheet.pdf_  
