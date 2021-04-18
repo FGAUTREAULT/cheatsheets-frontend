@@ -57,6 +57,7 @@ It's a repository gathering resources about frontend.
 # Editor & Tools
 ## VSCode
 > _https://github.com/microsoft/vscode-tips-and-tricks_ 👍  
+> _https://www.kite.com/_  
 
 ## UI Visualization
 > _https://ui.dev/javascript-visualizer/_  
