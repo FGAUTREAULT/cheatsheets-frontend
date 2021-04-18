@@ -42,9 +42,11 @@ It's a repository gathering resources about frontend.
 > _https://github.com/pcottle/learnGitBranching_  
 
 
+
 # Sharing Platform & tools
 > _https://marketplace.visualstudio.com/items?itemName=lostintangent.thinking-in-code&s=03_  
 > _https://carbon.now.sh/_  
+
 
 
 # Algorithms
@@ -59,8 +61,9 @@ It's a repository gathering resources about frontend.
 ## UI Visualization
 > _https://ui.dev/javascript-visualizer/_  
 
-## SVG
+## Image
 > _https://jakearchibald.github.io/svgomg/_  
+> _https://squoosh.app/_  
 
 ## Formats
 > _https://transform.tools/_
