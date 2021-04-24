@@ -45,6 +45,11 @@ It's a repository gathering resources about frontend.
 
 
 
+# Chrome extension
+> _https://github.com/keithclark/css-feature-toggle-devtools-extension_  
+
+
+
 # Sharing Platform & tools
 > _https://marketplace.visualstudio.com/items?itemName=lostintangent.thinking-in-code&s=03_  
 > _https://carbon.now.sh/_  
