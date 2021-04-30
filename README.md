@@ -145,6 +145,7 @@ It's a repository gathering resources about frontend.
 # Performance
 > _https://github.com/thedaviddias/Front-End-Performance-Checklist_  
 > _https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/_  
+> _https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/_  
 
 ## JS
 > _https://perf.link/_  
