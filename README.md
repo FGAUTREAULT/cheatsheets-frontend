@@ -91,6 +91,9 @@ It's a repository gathering resources about frontend.
 ## Database
 > _https://github.com/mgramin/awesome-db-tools_  
 
+## Chrome
+> _https://www.smashingmagazine.com/2021/02/useful-chrome-firefox-devtools-tips-shortcuts/_  
+
 
 
 # Cheatsheets
