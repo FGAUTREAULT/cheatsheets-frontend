@@ -130,6 +130,14 @@ It's a repository gathering resources about frontend.
 
 
 
+# Animation
+> _https://greensock.com/_  // Animations  
+> _https://github.com/michalsnik/aos_  // // Animate on Scroll  
+> _https://splidejs.com/_  // Slider JS & carrousel  
+> _https://threejs.org/_  // 3D Webgl  
+
+
+
 # Datas & Mock
 > _https://github.com/public-apis/public-apis?s=03_
 
