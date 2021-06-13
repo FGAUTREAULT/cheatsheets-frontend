@@ -14,6 +14,14 @@ It's a repository gathering resources about frontend.
 > _https://devdocs.io/css/css_animations_  
 > _https://hackdesign.org/lessons_  
 
+## Coding challenge
+> _https://100dayscss.com/?dayIndex=01_  
+> _https://www.codewars.com/_  
+> _https://www.hackerrank.com/_  
+> _https://coderbyte.com/_  
+> _https://leetcode.com/_  
+> _https://www.codingame.com/start_  
+
 ## JS
 > _https://github.com/getify/You-Dont-Know-JS_  
 > _https://github.com/30-seconds/30-seconds-of-code_  
