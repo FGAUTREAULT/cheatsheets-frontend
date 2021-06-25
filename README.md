@@ -204,5 +204,6 @@ surge
 # Other resources
 > _https://github.com/tommcgurl/frontend-resources_  
 > _https://github.com/dypsilon/frontend-dev-bookmarks_  
+> _https://github.com/public-apis/public-apis_  // Public APIs for data
 
 
