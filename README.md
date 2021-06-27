@@ -197,8 +197,8 @@ surge
 
 
 # Productivity
-> _https://opensource.builders/_ 
-> _https://timemachine.betamode.dev/_   
+> _https://opensource.builders/_  // Find open-source alternatives for your favorite apps  
+> _https://timemachine.betamode.dev/_  // Top rated apps  
 
 
 # Other resources
