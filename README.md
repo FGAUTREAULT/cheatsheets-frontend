@@ -192,13 +192,14 @@ It's a repository gathering resources about frontend.
 npm install --global surge
 surge
 </pre>
-> _https://surge.sh/_  
+> _https://surge.sh/_  // Static web publishing for Front-End Developers  
 
 
 
 # Productivity
 > _https://opensource.builders/_  // Find open-source alternatives for your favorite apps  
 > _https://timemachine.betamode.dev/_  // Top rated apps  
+
 
 
 # Other resources
