@@ -147,29 +147,29 @@ It's a repository gathering resources about frontend.
 
 
 # Datas & Mock
-> _https://github.com/public-apis/public-apis?s=03_
+> _https://github.com/public-apis/public-apis?s=03_  
 
 
 
 # REST API
-> _https://blog.octo.com/designer-une-api-rest/_
+> _https://blog.octo.com/designer-une-api-rest/_  
 
 
 
 # UI
-> _https://github.com/FGAUTREAULT/cheatsheets-ui-ux_
+> _https://github.com/FGAUTREAULT/cheatsheets-ui-ux_  
 
 
 
 # Performance
-> _https://github.com/thedaviddias/Front-End-Performance-Checklist_  
-> _https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/_  
-> _https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/_  
-> _https://www.smashingmagazine.com/search-engine-optimization-checklist/_  
+> _https://github.com/thedaviddias/Front-End-Performance-Checklist_  // Design and code with performance in mind  
+> _https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/_  // Web core vital explanantion and examples
+> _https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/_  // List of frontend axis for performance
+> _https://www.smashingmagazine.com/search-engine-optimization-checklist/_  // Optimize for SEO
 
 ## JS
-> _https://perf.link/_  // Calculate performance of bit of JS code, for tuning perf
-> _https://philipwalton.com/articles/idle-until-urgent/_  // Idle Until Urgent stategy example to deal with webpage perf
+> _https://perf.link/_  // Calculate performance of bit of JS code, for tuning perf  
+> _https://philipwalton.com/articles/idle-until-urgent/_  // Idle Until Urgent stategy example to deal with webpage perf  
 
 
 
