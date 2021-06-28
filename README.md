@@ -128,13 +128,14 @@ It's a repository gathering resources about frontend.
 
 # Code style
 ## JS
-> _https://github.com/airbnb/javascript_  
+> _https://github.com/airbnb/javascript_  // Airbnb style guide  
+> _https://google.github.io/styleguide/jsguide.html_  // Google style guide  
 
 
 
 # Build library
-> _https://github.com/storybookjs/storybook_  
-> _https://medium.com/loftbr/angular-storybook-6d8ae099ab96?s=09_
+> _https://github.com/storybookjs/storybook_  // Build a library of components - repo  
+> _https://medium.com/loftbr/angular-storybook-6d8ae099ab96?s=09_  // Explanation of storybook with angular exmaple  
 
 
 
@@ -146,26 +147,21 @@ It's a repository gathering resources about frontend.
 
 
 
-# Datas & Mock
-> _https://github.com/public-apis/public-apis?s=03_  
-
-
-
 # REST API
-> _https://blog.octo.com/designer-une-api-rest/_  
+> _https://blog.octo.com/designer-une-api-rest/_  // How to design a REST API step by step
 
 
 
 # UI
-> _https://github.com/FGAUTREAULT/cheatsheets-ui-ux_  
+> _https://github.com/FGAUTREAULT/cheatsheets-ui-ux_  // Gathering resources around UI/UX  
 
 
 
 # Performance
 > _https://github.com/thedaviddias/Front-End-Performance-Checklist_  // Design and code with performance in mind  
-> _https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/_  // Web core vital explanantion and examples
-> _https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/_  // List of frontend axis for performance
-> _https://www.smashingmagazine.com/search-engine-optimization-checklist/_  // Optimize for SEO
+> _https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/_  // Web core vital explanantion and examples  
+> _https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/_  // List of frontend axis for performance  
+> _https://www.smashingmagazine.com/search-engine-optimization-checklist/_  // Optimize for SEO  
 
 ## JS
 > _https://perf.link/_  // Calculate performance of bit of JS code, for tuning perf  
@@ -205,6 +201,6 @@ surge
 # Other resources
 > _https://github.com/tommcgurl/frontend-resources_  // Collection of frontend resources  
 > _https://github.com/dypsilon/frontend-dev-bookmarks_  // Manually curated collection of resources for frontend web developers  
-> _https://github.com/public-apis/public-apis_  // Public APIs for data  
+> _https://github.com/public-apis/public-apis_  // Public APIs for data & mocks  
 
 
