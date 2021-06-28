@@ -168,8 +168,8 @@ It's a repository gathering resources about frontend.
 > _https://www.smashingmagazine.com/search-engine-optimization-checklist/_  
 
 ## JS
-> _https://perf.link/_  
-> _https://philipwalton.com/articles/idle-until-urgent/_  
+> _https://perf.link/_  // Calculate performance of bit of JS code, for tuning perf
+> _https://philipwalton.com/articles/idle-until-urgent/_  // Idle Until Urgent stategy example to deal with webpage perf
 
 
 
