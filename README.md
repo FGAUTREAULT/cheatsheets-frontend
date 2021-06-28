@@ -175,7 +175,7 @@ It's a repository gathering resources about frontend.
 
 # Production
 ## Tips
-> _https://github.com/thedaviddias/Front-End-Checklist_  
+> _https://github.com/thedaviddias/Front-End-Checklist_  // Exhaustive list of all elements you need to have / to test before launching your website / HTML page to production.  
 
 ## Hosting
 ### Dynamic
