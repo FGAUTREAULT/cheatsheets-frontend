@@ -71,36 +71,36 @@ It's a repository gathering resources about frontend.
 
 # Editor & Tools
 ## VSCode
-> _https://github.com/microsoft/vscode-tips-and-tricks_ 👍  
-> _https://www.kite.com/_  
+> _https://github.com/microsoft/vscode-tips-and-tricks_ 👍  // VSCode tips & plugins for efficient ussage  
+> _https://www.kite.com/_  // AI powered code completions to your code editor  
 
 ## UI Visualization
-> _https://ui.dev/javascript-visualizer/_  
+> _https://ui.dev/javascript-visualizer/_  // Execution Context, Hoisting, Closures, and Scopes in JavaScript  
 
 ## Image
-> _https://jakearchibald.github.io/svgomg/_  
-> _https://squoosh.app/_  
+> _https://jakearchibald.github.io/svgomg/_  // Tool for optimizing SVG vector graphics files  
+> _https://squoosh.app/_  // Compress images but keep quality  
 
 ## Video
-> _https://www.unscreen.com/_  
+> _https://www.unscreen.com/_  // Remove video background  
 
 ## Formats
-> _https://transform.tools/_
+> _https://transform.tools/_  // Transform from one format to another  
 
 ## Regex
-> _https://regexper.com/_  
+> _https://regexper.com/_  // Visualize regex composition  
 
 ## CSS
-> _https://github.com/FGAUTREAULT/cheatsheets-css/blob/main/README.md#editor--tools_  
+> _https://github.com/FGAUTREAULT/cheatsheets-css/blob/main/README.md#editor--tools_  // Css resources & tools
 
 ## Testing
-> _https://www.iterspace.com/_  
+> _https://www.iterspace.com/_  // Record screen, add comments, collect logs from your browser  
 
 ## Database
-> _https://github.com/mgramin/awesome-db-tools_  
+> _https://github.com/mgramin/awesome-db-tools_  // Collection of database tools  
 
 ## Chrome
-> _https://www.smashingmagazine.com/2021/02/useful-chrome-firefox-devtools-tips-shortcuts/_  
+> _https://www.smashingmagazine.com/2021/02/useful-chrome-firefox-devtools-tips-shortcuts/_  // Tips using chrome devtools  
 
 
 
