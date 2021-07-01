@@ -168,10 +168,10 @@ It's a repository gathering resources about frontend.
 > _https://philipwalton.com/articles/idle-until-urgent/_  // Idle Until Urgent stategy example to deal with webpage perf  
 
 ## Angular
-https://t.co/HSi1qcePBu // Bundle optimization  
-https://t.co/XlYJqfurP6 // Profiling apps in @ChromeDevTools  
-https://t.co/ete6KJtpXE // Using the Angular extension for @ChromeDevTools  
-https://t.co/d6uF14KjOi // Angular performance checklist  
+> _https://t.co/HSi1qcePBu_ // Bundle optimization  
+> _https://t.co/XlYJqfurP6_ // Profiling apps in @ChromeDevTools  
+> _https://t.co/ete6KJtpXE_ // Using the Angular extension for @ChromeDevTools  
+> _https://t.co/d6uF14KjOi_ // Angular performance checklist  
 
 
 
