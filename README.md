@@ -157,7 +157,7 @@ It's a repository gathering resources about frontend.
 
 
 
-# Performance
+# ⚡️ Performance ⚡️
 > _https://github.com/thedaviddias/Front-End-Performance-Checklist_  // Design and code with performance in mind  
 > _https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/_  // Web core vital explanantion and examples  
 > _https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/_  // List of frontend axis for performance  
@@ -166,6 +166,12 @@ It's a repository gathering resources about frontend.
 ## JS
 > _https://perf.link/_  // Calculate performance of bit of JS code, for tuning perf  
 > _https://philipwalton.com/articles/idle-until-urgent/_  // Idle Until Urgent stategy example to deal with webpage perf  
+
+## Angular
+https://t.co/HSi1qcePBu // Bundle optimization  
+https://t.co/XlYJqfurP6 // Profiling apps in @ChromeDevTools  
+https://t.co/ete6KJtpXE // Using the Angular extension for @ChromeDevTools  
+https://t.co/d6uF14KjOi // Angular performance checklist  
 
 
 
