@@ -2,7 +2,7 @@
 
 It's a repository gathering resources about frontend.
 
-# 📰 Bloging 📰
+# 📰 Blogging 📰
 > [Regular DOM vs Virtual DOM](https://github.com/FGAUTREAULT/cheatsheets-frontend/wiki)  
 
 # 💻 Coding 💻
