@@ -2,7 +2,12 @@
 
 It's a repository gathering resources about frontend.
 
-# Learning
+# 📰 Bloging 📰
+> [Regular DOM vs Virtual DOM](https://github.com/FGAUTREAULT/cheatsheets-frontend/wiki)  
+
+# 💻 Coding 💻
+
+# 🎓 Learning 🎓
 ## Path
 > _https://github.com/google/WebFundamentals_  
 > _https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer_  
