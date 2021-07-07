@@ -4,6 +4,7 @@ It's a repository gathering resources about frontend.
 
 # 📰 Blogging 📰
 > [Regular DOM vs Virtual DOM](https://github.com/FGAUTREAULT/cheatsheets-frontend/wiki)  
+> _https://indiepen.tech/_  // Embedded code IDE  
 
 # 💻 Coding 💻
 
