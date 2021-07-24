@@ -109,6 +109,9 @@ It's a repository gathering resources about frontend.
 ## Chrome
 > _https://www.smashingmagazine.com/2021/02/useful-chrome-firefox-devtools-tips-shortcuts/_  // Tips using chrome devtools  
 
+## Generators
+> _https://www.json-generator.com/_  // Json model generator  
+
 
 
 # Cheatsheets
