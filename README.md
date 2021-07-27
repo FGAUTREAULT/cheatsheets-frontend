@@ -160,7 +160,8 @@ It's a repository gathering resources about frontend.
 
 
 # REST API
-> _https://blog.octo.com/designer-une-api-rest/_  // How to design a REST API step by step
+> _https://blog.octo.com/designer-une-api-rest/_  // How to design a REST API step by step  
+> _https://dzone.com/articles/rest-api-best-practices-with-design-examples-from_  // Best pratices  
 
 
 
