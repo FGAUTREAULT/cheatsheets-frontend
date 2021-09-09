@@ -195,14 +195,17 @@ It's a repository gathering resources about frontend.
 
 ## Hosting
 ### Dynamic
-> _https://firebase.google.com/_  
+> _https://developers.google.com/codelabs/building-a-web-app-with-angular-and-firebase#0_  
 > _https://vaiz10.medium.com/deploying-for-free-an-angular-application-to-heroku-b223728e8ebb_  
 > _https://www.heroku.com/_  
 > _https://infinityfree.net/_  
+> _https://vercel.com/guides/deploying-angular-with-vercel_  
+> _https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=angular&WT.mc_id=javascript-0000-wachegha_  
 ### GitHub Based
-> _https://www.netlify.com/_  
+> _https://www.netlify.com/blog/2019/09/23/first-steps-using-netlify-angular/_  
 > _https://www.npmjs.com/package/angular-cli-ghpages_  
 > _https://angular.schule/blog/2020-01-everything-github_  
+> _https://angular.io/guide/deployment#deploy-to-github-pages_  
 ### Static
 <pre>
 npm install --global surge
