@@ -20,6 +20,7 @@ It's a repository gathering resources about frontend.
 > _https://github.com/lauragift21/awesome-learning-resources_  
 > _https://devdocs.io/css/css_animations_  
 > _https://hackdesign.org/lessons_  
+> _https://github.com/30-seconds/30-seconds-of-code?s=03_  
 
 ## Coding challenge
 > _https://100dayscss.com/?dayIndex=01_  
